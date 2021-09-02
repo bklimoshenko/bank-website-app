@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jimmy Jimmerson",
+      "email": "email@email.com",
+      "password": "abc123"
+    },
+    {
+      "name": "Bogdan K",
+      "email": "bkl@gmail.com",
+      "password": "hello123",
+      "id": 2
+    },
+    {
+      "name": "asd",
+      "email": "test@email.com",
+      "password": "abc123",
+      "id": 3
+    },
+    {
+      "name": "test user",
+      "email": "test@test.edu",
+      "password": "test123",
+      "id": 4
+    },
+    {
+      "name": "test@yahoo.com",
+      "email": "test@yahoo.com",
+      "password": "123",
+      "id": 5
+    }
+  ],
+  "openAccounts": [
+    {
+      "boundAccountID": 1,
+      "cardNumber": "9123-1295-1958-9959",
+      "securityCode": "0123",
+      "balance": 9124006110939,
+      "expirationDate": "1102-05",
+      "id": 12
+    },
+    {
+      "boundAccountID": 1,
+      "cardNumber": "3124-1823-1295-1859",
+      "securityCode": "015",
+      "balance": 7980,
+      "expirationDate": "1205-12",
+      "id": 13
+    },
+    {
+      "boundAccountID": 1,
+      "cardNumber": "9123-5912-1959-1961",
+      "securityCode": "123",
+      "balance": 120310230167,
+      "expirationDate": "5120-10",
+      "id": 14
+    },
+    {
+      "boundAccountID": 2,
+      "cardNumber": "4123-1293-1954-1923",
+      "securityCode": "202",
+      "balance": 11785820,
+      "expirationDate": "12012-12",
+      "id": 15
+    },
+    {
+      "boundAccountID": 2,
+      "cardNumber": "1230-4192-6893-3912",
+      "securityCode": "012",
+      "balance": 503002256200,
+      "expirationDate": "51020-04",
+      "id": 16
+    },
+    {
+      "boundAccountID": 1,
+      "cardNumber": "4391-1284-1285-5910",
+      "securityCode": "012",
+      "balance": "12454123123123",
+      "expirationDate": "2001-05",
+      "id": 17
+    }
+  ]
+}
